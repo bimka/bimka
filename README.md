@@ -12,33 +12,31 @@
 
 <div id="table" align="center">
     <div style="float: left; width: 25%;">
-        <ul style="list-style-type:none">
-            <li><img src="https://github.com/bimka/bimka/blob/main/python.svg" alt="Python" width="30"/></li>
-            <li><img src="https://github.com/bimka/bimka/blob/main/fastapi.svg" alt="FastAPI" width="30"/></li>
-        </ul>
+            <img src="https://github.com/bimka/bimka/blob/main/python.svg" alt="Python" width="30"/>
+            <img src="https://github.com/bimka/bimka/blob/main/fastapi.svg" alt="FastAPI" width="30"/>
     </div>
     <div style="float: left; width: 25%;">
-        <ul style="list-style-type:none">
-            <li><td><img src="https://github.com/bimka/bimka/blob/main/postgresql.svg" alt="PostgreSQL" width="30"/></li>
-        </ul>
+            <img src="https://github.com/bimka/bimka/blob/main/postgresql.svg" alt="PostgreSQL" width="30"/>
     </div>
-    <div style="list-style-type:none">
-        <ul list-style-type="none">
-            <li><img src="https://github.com/bimka/bimka/blob/main/html5.svg" alt="HTML5" width="30"/></li>
-            <li><img src="https://github.com/bimka/bimka/blob/main/css3.svg" alt="CSS3" width="30"/></li>
-        </ul>
+    <div style="float: left; width: 25%;">
+            <img src="https://github.com/bimka/bimka/blob/main/html5.svg" alt="HTML5" width="30"/>
+            <img src="https://github.com/bimka/bimka/blob/main/css3.svg" alt="CSS3" width="30"/>
     </div>
-    <div style="list-style-type:none">
-        <ul list-style-type="none">
-            <li><img src="https://github.com/bimka/bimka/blob/main/docker.svg" alt="Docker" width="30"/></li>
-            <li><img src="https://github.com/bimka/bimka/blob/main/ubuntu.svg" alt="Ubuntu" width="30"/></li
-        </ul>
+    <div style="float: left; width: 25%;">
+            <img src="https://github.com/bimka/bimka/blob/main/docker.svg" alt="Docker" width="30"/>
+            <img src="https://github.com/bimka/bimka/blob/main/ubuntu.svg" alt="Ubuntu" width="30"/>
     </div>
 </div>
+                                                                                                  
+<div>
+    [![codewars](https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/bimka)                                               </div>
 
-<div id="contacts" align="center">
+<div id="statistic" align="center">
     <a href="https://t.me/bimkaa"><img src="https://github.com/bimka/bimka/blob/main/telegram.svg" alt="Telegram" width="30"/></a>
+    ![](https://komarev.com/ghpvc/?username=bimka)
 </div>
+                                                                                                                            
+                                                                                                                                
     
     
 <!--
