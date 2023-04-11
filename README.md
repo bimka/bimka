@@ -23,13 +23,13 @@
     ![Codewars](https://github.r2v.ch/codewars?user=bimka&name=true)
     [![codewars](https://www.codewars.com/users/bimka/badges/small)](https://www.codewars.com/users/bimka)                                               </div>
 
-<div id="statistic" align="center">
+
     <a href="https://t.me/bimkaa"><img src="https://github.com/bimka/bimka/blob/main/telegram.svg" alt="Telegram" width="30"/></a>
-</div>
+
                                                                    
-<div id="counter" align="center">
-    ![](https://komarev.com/ghpvc/?username=bimka&color=green)                            
-</div>
+
+    ![](https://komarev.com/ghpvc/?username=bimka&color=grey)                            
+
 
                                 
 <!--    
