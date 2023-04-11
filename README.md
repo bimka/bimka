@@ -11,23 +11,14 @@
 </div>
 
 <div id="table" align="center">
-    <div style="float: left; width: 25%;">
-            <img src="https://github.com/bimka/bimka/blob/main/python.svg" alt="Python" width="30"/>
-            <img src="https://github.com/bimka/bimka/blob/main/fastapi.svg" alt="FastAPI" width="30"/>
-    </div>
-    <div style="float: left; width: 25%;">
-            <img src="https://github.com/bimka/bimka/blob/main/postgresql.svg" alt="PostgreSQL" width="30"/>
-    </div>
-    <div style="float: left; width: 25%;">
-            <img src="https://github.com/bimka/bimka/blob/main/html5.svg" alt="HTML5" width="30"/>
-            <img src="https://github.com/bimka/bimka/blob/main/css3.svg" alt="CSS3" width="30"/>
-    </div>
-    <div style="float: left; width: 25%;">
-            <img src="https://github.com/bimka/bimka/blob/main/docker.svg" alt="Docker" width="30"/>
-            <img src="https://github.com/bimka/bimka/blob/main/ubuntu.svg" alt="Ubuntu" width="30"/>
-    </div>
+    <img src="https://github.com/bimka/bimka/blob/main/python.svg" alt="Python" width="30"/>
+    <img src="https://github.com/bimka/bimka/blob/main/fastapi.svg" alt="FastAPI" width="30"/>
+    <img src="https://github.com/bimka/bimka/blob/main/postgresql.svg" alt="PostgreSQL" width="30"/>
+    <img src="https://github.com/bimka/bimka/blob/main/html5.svg" alt="HTML5" width="30"/>
+    <img src="https://github.com/bimka/bimka/blob/main/css3.svg" alt="CSS3" width="30"/>
+    <img src="https://github.com/bimka/bimka/blob/main/docker.svg" alt="Docker" width="30"/>
 </div>
-<!--                                                                                                  
+                                                                                                
 <div>
     [![codewars](https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/bimka)                                               </div>
 
@@ -38,7 +29,7 @@
                                                                                                                             
                                                                                                                                 
     
-    
+  <!--    
 
 **bimka/bimka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
