@@ -6,14 +6,10 @@
     <h3>I'm Dmitriy. Junior Web Developer</h3>
 </div>
 
-<table>
-<tr><th>текст заголовка</th><th>текст заголовка</th></tr> <!--ряд с ячейками заголовков-->
-<tr><td>данные</td><td>данные</td></tr> <!--ряд с ячейками тела таблицы-->
-</table>
 <div id="table" align="center">
     <table>
         <tr>
-            <td><![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</td>
+            <td>![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</td>
             <td>![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)</td>
             <td>![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)</td>
         </tr>
