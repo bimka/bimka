@@ -23,9 +23,10 @@
 
 <div id="statistic" align="center">
     <h5>Statistics:</h5>   
+</div>
     [![codewars](https://www.codewars.com/users/bimka/badges/small)](https://www.codewars.com/users/bimka)        
     ![](https://komarev.com/ghpvc/?username=bimka&color=grey)                            
-</div>
+
 
                                 
 <!--    
