@@ -21,9 +21,7 @@
     <a href="https://t.me/bimkaa"><img src="https://github.com/bimka/bimka/blob/main/telegram.svg" alt="Telegram" width="30"/></a>
 </div>                                                                                              
 
-<div id="statistic" align="center">
-    <h5>Statistics:</h5>   
-</div>
+
                                   
                                   
     [![codewars](https://www.codewars.com/users/bimka/badges/small)](https://www.codewars.com/users/bimka)        
