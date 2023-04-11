@@ -21,28 +21,13 @@
     <a href="https://t.me/bimkaa"><img src="https://github.com/bimka/bimka/blob/main/telegram.svg" alt="Telegram" width="30"/></a>
 </div>                                                                                              
 
-
+<div id="statistic" align="center">
+    <h5>Statistics:</h5>   
+</div>
                                   
                                   
-    [![codewars](https://www.codewars.com/users/bimka/badges/small)](https://www.codewars.com/users/bimka)        
+[![codewars](https://www.codewars.com/users/bimka/badges/small)](https://www.codewars.com/users/bimka)        
                                   
                                   
-    ![](https://komarev.com/ghpvc/?username=bimka&color=grey)                            
+![](https://komarev.com/ghpvc/?username=bimka&color=grey)                            
 
-
-                                
-<!--    
-
-**bimka/bimka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
