@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="[https://github.com/bimka/bimka/samolet.png](https://github.com/bimka/bimka/blob/main/samolet.png) " alt="Flight of Thought" width="180"/>
+<img src="[[https://github.com/bimka/bimka/samolet.png](https://github.com/bimka/bimka/blob/main/samolet.png)](https://github.com/bimka/bimka/blob/main/samolet.png) " alt="Flight of Thought" width="180"/>
 
 <div id="header" align="center">
     <h3>I'm Dmitriy. Junior Web Developer</h3>
