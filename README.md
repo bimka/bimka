@@ -19,16 +19,16 @@
     <img src="https://github.com/bimka/bimka/blob/main/docker.svg" alt="Docker" width="30"/>
 </div>
                                                                                                 
-<div>
-    ![Codewars](https://github.r2v.ch/codewars?user=bimka&name=true)
-    [![codewars](https://www.codewars.com/users/bimka/badges/small)](https://www.codewars.com/users/bimka)                                               </div>
+
+![Codewars](https://github.r2v.ch/codewars?user=bimka&name=true)
+[![codewars](https://www.codewars.com/users/bimka/badges/small)](https://www.codewars.com/users/bimka)                                               
 
 
-    <a href="https://t.me/bimkaa"><img src="https://github.com/bimka/bimka/blob/main/telegram.svg" alt="Telegram" width="30"/></a>
+<a href="https://t.me/bimkaa"><img src="https://github.com/bimka/bimka/blob/main/telegram.svg" alt="Telegram" width="30"/></a>
 
                                                                    
 
-    ![](https://komarev.com/ghpvc/?username=bimka&color=grey)                            
+![](https://komarev.com/ghpvc/?username=bimka&color=grey)                            
 
 
                                 
