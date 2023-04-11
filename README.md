@@ -20,16 +20,19 @@
 </div>
                                                                                                 
 <div>
-    [![codewars](https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/bimka)                                               </div>
+    ![Codewars](https://github.r2v.ch/codewars?user=bimka&name=true)
+    [![codewars](https://www.codewars.com/users/bimka/badges/small)](https://www.codewars.com/users/bimka)                                               </div>
 
 <div id="statistic" align="center">
     <a href="https://t.me/bimkaa"><img src="https://github.com/bimka/bimka/blob/main/telegram.svg" alt="Telegram" width="30"/></a>
-    ![](https://komarev.com/ghpvc/?username=bimka)
 </div>
-                                                                                                                            
-                                                                                                                                
-    
-  <!--    
+                                                                   
+<div id="counter" align="center">
+    ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)                            
+</div>
+
+                                
+<!--    
 
 **bimka/bimka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
