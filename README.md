@@ -8,7 +8,7 @@
 
 <div id="information" align="center">
     <h3>I'm Dmitriy. Junior Web Developer</h3>
-    Technologies:
+    <h5>Technologies:</h5>
 </div>
 
 <div id="table" align="center">
@@ -19,11 +19,17 @@
     <img src="https://github.com/bimka/bimka/blob/main/css3.svg" alt="CSS3" width="30"/>
     <img src="https://github.com/bimka/bimka/blob/main/docker.svg" alt="Docker" width="30"/>
 </div>
-Contacts:
+
+
+<div id="contacts" align="center">
+   <h5>Contacts:</h5>
+</div>
 <a href="https://t.me/bimkaa"><img src="https://github.com/bimka/bimka/blob/main/telegram.svg" alt="Telegram" width="30"/></a>
                                                                                               
 
-Statistics:
+<div id="statistic" align="center">
+   <h5>Statistics:</h5>
+</div>
 [![codewars](https://www.codewars.com/users/bimka/badges/small)](https://www.codewars.com/users/bimka)                                                                                                                
 
 ![](https://komarev.com/ghpvc/?username=bimka&color=grey)                            
