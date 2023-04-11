@@ -3,7 +3,7 @@
 </div>
 
 <div id="image" align="center">
-    <img src="https://github.com/bimka/bimka/blob/main/samolet.png" alt="Flight of Thought" width="800/>
+    <img src="https://github.com/bimka/bimka/blob/main/samolet.png" alt="Flight of Thought" width="500/>
 </div
 
 <div id="information" align="center">
@@ -12,23 +12,23 @@
 
 <div id="table" align="center">
     <div style="float: left; width: 25%;">
-        <ul list-style-type="none">
+        <ul style="list-style-type:none">
             <li><img src="https://github.com/bimka/bimka/blob/main/python.svg" alt="Python" width="30"/></li>
             <li><img src="https://github.com/bimka/bimka/blob/main/fastapi.svg" alt="FastAPI" width="30"/></li>
         </ul>
     </div>
     <div style="float: left; width: 25%;">
-        <ul list-style-type="none">
+        <ul style="list-style-type:none">
             <li><td><img src="https://github.com/bimka/bimka/blob/main/postgresql.svg" alt="PostgreSQL" width="30"/></li>
         </ul>
     </div>
-    <div style="float: left; width: 25%;">
+    <div style="list-style-type:none">
         <ul list-style-type="none">
             <li><img src="https://github.com/bimka/bimka/blob/main/html5.svg" alt="HTML5" width="30"/></li>
             <li><img src="https://github.com/bimka/bimka/blob/main/css3.svg" alt="CSS3" width="30"/></li>
         </ul>
     </div>
-    <div style="float: left; width: 25%;">
+    <div style="list-style-type:none">
         <ul list-style-type="none">
             <li><img src="https://github.com/bimka/bimka/blob/main/docker.svg" alt="Docker" width="30"/></li>
             <li><img src="https://github.com/bimka/bimka/blob/main/ubuntu.svg" alt="Ubuntu" width="30"/></li
