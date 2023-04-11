@@ -18,13 +18,13 @@
     <img src="https://github.com/bimka/bimka/blob/main/css3.svg" alt="CSS3" width="30"/>
     <img src="https://github.com/bimka/bimka/blob/main/docker.svg" alt="Docker" width="30"/>
 </div>
-                                                                                                
-
-![Codewars](https://github.r2v.ch/codewars?user=bimka&name=true)
-[![codewars](https://www.codewars.com/users/bimka/badges/small)](https://www.codewars.com/users/bimka)                                               
-
 
 <a href="https://t.me/bimkaa"><img src="https://github.com/bimka/bimka/blob/main/telegram.svg" alt="Telegram" width="30"/></a>
+                                                                                              
+
+
+[![codewars](https://www.codewars.com/users/bimka/badges/small)](https://www.codewars.com/users/bimka)                                               
+
 
                                                                    
 
