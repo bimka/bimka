@@ -3,7 +3,7 @@
 </div>
 
 <div id="image" align="center">
-    <img src="https://github.com/bimka/bimka/blob/main/samolet.png" alt="Flight of Thought" width="500/>
+    <img src="https://github.com/bimka/bimka/blob/main/samolet.png" alt="Flight of Thought" width="400/>
 </div
 
 <div id="information" align="center">
@@ -27,7 +27,7 @@
             <img src="https://github.com/bimka/bimka/blob/main/ubuntu.svg" alt="Ubuntu" width="30"/>
     </div>
 </div>
-                                                                                                  
+<!--                                                                                                  
 <div>
     [![codewars](https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/bimka)                                               </div>
 
@@ -39,7 +39,7 @@
                                                                                                                                 
     
     
-<!--
+
 **bimka/bimka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
