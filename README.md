@@ -13,6 +13,7 @@
     <img src="https://github.com/bimka/bimka/blob/main/postgresql.svg" alt="PostgreSQL" width="30"/>
     <img src="https://github.com/bimka/bimka/blob/main/html5.svg" alt="HTML5" width="30"/>
     <img src="https://github.com/bimka/bimka/blob/main/css3.svg" alt="CSS3" width="30"/>
+     <img src="https://github.com/bimka/bimka/blob/main/redis.svg" alt="Docker" width="30"/>
     <img src="https://github.com/bimka/bimka/blob/main/docker.svg" alt="Docker" width="30"/>
 </div>
 
